@@ -13,15 +13,12 @@ El proyecto busca proporcionar una plataforma en línea que sea accesible, infor
 
 ## Instalación
 Pasos para clonar el repositorio y configurar el entorno de desarrollo localmente.
-1. Clona el repositorio en tu máquina local utilizando el siguiente comando:
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-3. Accede al directorio del proyecto:
-   cd tu-repositorio
-5. Abre el directorio en el editor de código(VS Code):
-   code .
-
-## Uso
-Instrucciones sobre cómo utilizar el sitio web y acceder a las diferentes secciones y funcionalidades.
+1. Abre la consola en el directorio donde vas a clonar el proyecto:
+   - cd directorio-de-instalación
+2. Clona el repositorio en tu máquina local utilizando el siguiente comando:
+   - git clone https://github.com/geronimoD18/IBBME_Website_Code.git
+3. Abre el el editor de código(VS Code) en el directorio:
+   - code .
 
 ## Contribución
 Si deseas contribuir al proyecto, sigue estos pasos:
@@ -32,10 +29,7 @@ Si deseas contribuir al proyecto, sigue estos pasos:
 5. Haz commit y push de tus cambios en tu repositorio bifurcado.
 6. Envía una solicitud de extracción (pull request) describiendo tus cambios y mejoras.
 
-## Licencia
-Este proyecto está licenciado bajo [Nombre de la licencia]. Consulta el archivo LICENSE para obtener más información.
-
 ## Contacto
 Si tienes alguna pregunta o comentario sobre el proyecto, puedes ponerte en contacto con nosotros a través de:
-- Email: [tu@email]
-- Redes sociales: [enlaces a perfiles de redes sociales]
+- Email: [jdevshington@gmail.com]
+- Redes sociales: [enlaces a perfiles de redes sociales](https://www.instagram.com/jdevshington/)
