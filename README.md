@@ -31,5 +31,5 @@ Si deseas contribuir al proyecto, sigue estos pasos:
 
 ## Contacto
 Si tienes alguna pregunta o comentario sobre el proyecto, puedes ponerte en contacto con nosotros a través de:
-- Email: [jdevshington@gmail.com](jdevshington@gmail.com)
+- Email: jdevshington@gmail.com
 - Redes sociales: [Instagram](https://www.instagram.com/jdevshington/)
