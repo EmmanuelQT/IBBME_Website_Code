@@ -7,15 +7,18 @@ This will be the repository for the web app. We will be saving the code for each
 Este repositorio contiene el código fuente y los recursos para el sitio web de la Iglesia Bíblica Bautista Mi Esperanza.
 
 ## Descripción
-Breve descripción del proyecto y su propósito.
+El proyecto busca proporcionar una plataforma en línea que sea accesible, informativa y atractiva para los miembros y visitantes de la Iglesia Bíblica Bautista Mi Esperanza, permitiéndoles conocer más sobre la iglesia, su visión, sus ministerios y participar activamente en las actividades de la comunidad.
 
-## Requisitos
-- Requisito 1
-- Requisito 2
-- Requisito 3
+*****************************************************
 
 ## Instalación
 Pasos para clonar el repositorio y configurar el entorno de desarrollo localmente.
+1. Clona el repositorio en tu máquina local utilizando el siguiente comando:
+   git clone https://github.com/tu-usuario/tu-repositorio.git
+3. Accede al directorio del proyecto:
+   cd tu-repositorio
+5. Abre el directorio en el editor de código(VS Code):
+   code .
 
 ## Uso
 Instrucciones sobre cómo utilizar el sitio web y acceder a las diferentes secciones y funcionalidades.
